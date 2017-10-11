@@ -1,6 +1,6 @@
 #include <sstream>
 #include "Email.h"
-
+#include <string.h>
 std::vector<std::string> payload_text;
 
 Email::Email(){
